@@ -1,7 +1,11 @@
 # SeaSharpTextGame
 Untitled Text Game
 
-Made out of my fun and learning of C# 
+SeaSharpTextGame is a 1v1 table top text based battle simulator 
+Take turns attacking the enemy and see if you can win.
+
+More coming soon.
+
 
 # Setup 
 
@@ -9,7 +13,11 @@ Made out of my fun and learning of C#
 Required .Net Core 3.1 
 A Text Game
 
-SeaSharpTextGame is a 1v1 table top text based battle simulator 
-Take turns attacking the enemy and see if you can win.
+## Linux 
+Tested on Debian 12
 
-More coming soon.
+You will need [Install dotnet](https://learn.microsoft.com/en-us/dotnet/core/install/linux-scripted-manual#scripted-install)
+
+```bash
+wget https://dot.net/v1/dotnet-install.sh -O dotnet-install.sh
+```
